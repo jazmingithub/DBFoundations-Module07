@@ -1,2 +1,3 @@
 # DBFoundations-Module07
-Assignment07 of ITFDN130ASu22
+ITFDN130ASu22 Assignment07
+Github Webpage: https://jazmingithub.github.io/DBFoundations-Module07/
