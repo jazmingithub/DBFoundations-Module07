@@ -1,4 +1,4 @@
-# **Assignment 07: Functions
+# **Assignment 07: Functions**
 
 ## Introduction
 Functions are SQL statements that perform a specific task or operation, they can be saved in the database and used by other users. Functions are similar to views but can accept parameters and return a table or a single value. This article will briefly introduce functions and discuss the difference between scalar and table-valued functions (TVFs). 
